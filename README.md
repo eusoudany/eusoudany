@@ -2,7 +2,7 @@
 
 ### Hi @eusoudany ! 👋
 
-🔭 Atualmente sou professora de programação e estou em constante desenvolvimento </>!!
+🔭 Atualmente sou professora de programação em constante desenvolvimento </>!!
  
  <div align="center">
   <a href="https://github.com/eusoudany">
